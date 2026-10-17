@@ -96,5 +96,13 @@ My goal is to help travelers make more informed decisions and help independent t
 TripPitch AI explores how accessible, locally run AI can support a practical problem in the travel industry without making a paid cloud AI service a requirement.
 
 ---
+## 👥 Team
 
-Built for Hacktoberfest 2026 — Open-Source AI Challenge: Side Hustle.
+Developed for Code Craft 2026 — Hacktoberfest Hack Day at Poona College.
+
+- **Project Lead:** Kiran Chavhan — Project concept and development
+- **Team Member:** Jumana Bhori
+- **Team Member:** Mariya Mugal
+- **Team Member:** Alisha Shaikh
+
+We are collaborating to explore how locally running AI can make travel quotation comparison clearer and more transparent.
